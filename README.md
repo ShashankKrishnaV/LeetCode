@@ -6,5 +6,5 @@ Problems solved in LeetCode
    Before: temp=i, i=j, j=temp
    Optimised: i, j = j, i
 
-2. 
+2. Max element in Python: "sys.maxsize"
    
