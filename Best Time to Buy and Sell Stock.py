@@ -1,6 +1,6 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        low=sys.maxsize
+        low=99999
         diff=0
         for i in range(len(prices)):
             if prices[i]<low:
